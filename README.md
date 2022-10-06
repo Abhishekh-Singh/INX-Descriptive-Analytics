@@ -7,3 +7,9 @@ In recent years, the employee performance indexes are not healthy and this is be
 CEO, Mr. Brain, knows the issues but is concerned about taking any actions in penalizing non-performing employees as this would affect the employee morale of all the employees in general and may further reduce performance. Also, the market perception the best employer and thereby attracts the best talents to join the company.
 
 Mr. Brain decided to initiate a data science project, which analyses the current employee data and finds the core underlying causes of these performance issues. Mr. Brain, being a data scientist himself, expects the findings of this project will help him to take the right course of action. He also expects clear indicators of non-performing employees, so that any penalization of the non-performing employee, if required, may not significantly affect other employees' morals.
+
+
+## High Level Design (HLD)
+
+[Project Analysis & Design](http://abhisheksingh-portfolio.herokuapp.com/project/employee-performance-analytics/)
+
