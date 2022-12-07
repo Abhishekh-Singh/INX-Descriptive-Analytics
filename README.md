@@ -11,7 +11,7 @@ Mr. Brain decided to initiate a data science project, which analyses the current
 
 ## High Level Design (HLD)
 
-[Project Analysis & Design](http://abhisheksingh-portfolio.herokuapp.com/project/employee-performance-analytics/)
+[Project Analysis & Design](https://drive.google.com/file/d/10ezxOnKY7bOBCy3ttn-tnUrB1szLYxje/view?usp=share_link)
 
 
 ## Graphical Plots
